@@ -15,10 +15,6 @@ public class MainActivity extends AppCompatActivity {
     private static final int nove = 9;
     public static final String player1 = "✕";
     public static final String player2= "◯";
-    public static String ESC = "\u001B";
-    public static String GS = "\u001D";
-    protected String BoldOn = ESC + "E" + "\u0001";
-    protected String BoldOff = ESC + "E" + "\0";
 
     private Button[] arrayBtn = new Button[nove];
     private String turn = player1;
