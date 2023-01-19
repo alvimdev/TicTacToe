@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogo Da Velha</string>
+    <string name="X">✘</string>
+    <string name="O">⚪</string>
+</resources>
